@@ -32,7 +32,7 @@ function get_float($number, $integer, $mantissa) {
 }
 
 function main() {
-  $lines = file('floats.txt');
+  $lines = file('input.txt');
 
   echo "<h2>А.Дроби</h2>";
 
