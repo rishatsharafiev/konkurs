@@ -17,7 +17,6 @@ function get_simple_float($numerator, $denominator) {
   $numerator /= $nod;
   $denominator /= $nod;
   return array($numerator, $denominator);
-  echo "---nod: " . nod($numerator, $denominator) . " <br>";
 }
 
 function get_float($number, $integer, $mantissa) {
