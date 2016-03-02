@@ -1,0 +1,3 @@
+<?php
+
+require 'structure.php';
